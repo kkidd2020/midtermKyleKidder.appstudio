@@ -1,7 +1,7 @@
 
 btnSubmit.onclick=function(){
   let income = inptIncome.value
-  let answer = `With your income of ${income}, you are in a tax bracket of ` 
+  let answer = `With your income of $${income}, you are in a tax bracket of ` 
   
   if ( income < 30000) {
      lblAnswer.value = answer + "8%"

@@ -30,7 +30,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnGoAgain",
-  "left": 24,
+  "left": 199,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -61,7 +61,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 97,
+  "top": 184,
   "value": "Go Again",
   "width": "auto"
 }
