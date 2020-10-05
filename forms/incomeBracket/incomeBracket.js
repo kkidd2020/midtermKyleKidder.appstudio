@@ -1,4 +1,4 @@
-
+/*
 btnSubmit.onclick=function(){
   let income = inptIncome.value
   let answer = `With your income of $${income}, you are in a tax bracket of ` 
@@ -18,3 +18,4 @@ btnSubmit.onclick=function(){
 btnGoAgain.onclick=function(){
   lblAnswer.value = "Try another income"
 }
+*/
